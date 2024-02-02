@@ -9,6 +9,7 @@ ADARSH PS(REG NO:223004)
 ADHISH S SUJAN(REG NO:223005)
 
 In this project we used to create a model which is capable of detecting accident in the video input that is given and will detect the presence of accident from the video and send alert messages along with the image of the accident and time into a telegram channel that was created for receiving the alert messages
+![WhatsApp Image 2024-02-02 at 12 31 34 PM (1)](https://github.com/nidinvnandan/Mini_Project_II/assets/128630742/66cbb24a-f31f-4e7f-beeb-8e08591d6ae3)
 
 Demo performance of the model
 
