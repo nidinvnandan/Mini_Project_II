@@ -14,7 +14,7 @@ Demo performance of the model
 
 ![accidentvideo1 (1)](https://github.com/nidinvnandan/Mini_Project_II/assets/128630742/609c3081-36d1-48b0-ba4d-2849b9daa3a5)
 
-![WhatsApp Image 2024-02-02 at 12 42 41 PM](https://github.com/nidinvnandan/Mini_Project_II/assets/128630742/e1b6ff55-2dfe-4f48-8ba1-8651bb26c05b)
+![WhatsApp Image 2024-02-02 at 12 42 41 PM](https://github.com/nidinvnandan/Mini_Project_II/assets/128630742/e1b6ff55-2dfe-4f48-8ba1-8651bb26c05b){: width="100" height="200"}
 
 
 
