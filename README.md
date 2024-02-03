@@ -8,6 +8,8 @@ ADARSH PS(REG NO:223004)
 
 ADHISH S SUJAN(REG NO:223005)
 
+MSc Computer Science With Specialization in Data Analytics
+
 In this project we used to create a model which is capable of detecting accident in the video input that is given and will detect the presence of accident from the video and send alert messages along with the image of the accident and time into a telegram channel that was created for receiving the alert messages
 
 Demo performance of the model
